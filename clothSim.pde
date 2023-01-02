@@ -1,19 +1,7 @@
 import toxi.physics3d.*;
 import toxi.physics3d.behaviors.*;
 import toxi.physics3d.constraints.*;
-
 import toxi.geom.*;
-import toxi.geom.mesh.*;
-import toxi.geom.mesh.subdiv.*;
-import toxi.geom.mesh2d.*;
-import toxi.image.util.*;
-import toxi.math.*;
-import toxi.math.conversion.*;
-import toxi.math.noise.*;
-import toxi.math.waves.*;
-import toxi.util.*;
-import toxi.util.datatypes.*;
-import toxi.util.events.*;
 
 int cols = 40;
 int rows = 40;
